@@ -1,0 +1,41 @@
+# Object files
+*.o
+*.ko
+*.obj
+
+# Libraries
+*.so
+*.a
+*.lib
+*.dll
+
+# Executables
+*.exe
+*.out
+*.elf
+*.bin
+*.hex
+
+# Debug files
+*.map
+
+# Build directories
+build/
+Debug/
+Release/
+CMakeFiles/
+*.cmake
+cmake_install.cmake
+Makefile
+makefile
+
+# Precompiled headers
+*.gch
+*.pch
+
+# Other
+.DS_Store
+Thumbs.db
+# Python cache
+__pycache__/
+*.pyc
